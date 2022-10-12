@@ -1,0 +1,30 @@
+.question-container{
+    width: 30%;
+    margin: auto;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    background-color: aliceblue;
+    box-shadow: 1px 1px 8px 1px #888888;
+}
+
+.btn{
+    padding: 15px;
+    margin: 10px;
+    color: white;
+    background-color: rgb(35, 121, 37);
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+input[type=submit]{
+    padding: 10px;
+    background-color: rgb(35, 121, 37);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
